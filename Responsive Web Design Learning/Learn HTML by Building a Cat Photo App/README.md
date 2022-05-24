@@ -1,1 +1,0 @@
-#README Cat Photo App
